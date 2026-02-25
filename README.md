@@ -4,7 +4,7 @@ This project demonstrates automated testing of backend APIs and JSON data using 
 
 
 ## Features
-- automates tests for REST APIs
+- Automates tests for REST APIs
 - JSON data validation
 - Example of request/response verification
 - Reuseable test structures
