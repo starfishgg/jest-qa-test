@@ -1,4 +1,4 @@
-# Automation QA Exercists
+# Automation QA Exercisesx
 
 This project demonstrates automated testing of backend APIs and JSON data using Node.js and Jest.
 
